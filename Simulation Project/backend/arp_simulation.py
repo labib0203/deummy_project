@@ -699,3 +699,5 @@ def export_arp_snapshot(
             "isolatedNodes": [n["name"] for n in get_isolated_nodes(nodes, links)],
         },
     }
+
+# ARP reply mechanism and dynamic ARP cache update implemented
