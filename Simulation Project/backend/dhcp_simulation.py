@@ -490,3 +490,5 @@ def run_monte_carlo(
     }
 
 # DHCP four-way handshake handlers: DISCOVER, OFFER, REQUEST, ACK implemented
+
+# DHCP lease renewal, release and IP reclamation logic finalized
